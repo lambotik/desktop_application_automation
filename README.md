@@ -1,1 +1,1 @@
-# Demonstration of desktop application automation
+# Demonstration of automation of desktop applications using the pywinauto library
