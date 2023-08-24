@@ -1,0 +1,4 @@
+pywinauto==0.6.8
+pytest==7.4.0
+allure-pytest==2.13.2
+allure-python-commons==2.13.2
