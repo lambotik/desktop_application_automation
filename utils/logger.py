@@ -14,7 +14,7 @@ class Logger:
 
     @classmethod
     @allure.step('Start test')
-    def add_request(cls, method: str):
+    def add_method(cls, method: str):
         test_name = os.environ.get('PYTEST_CURRENT_TEST')
 
         data_to_add = '\n------\n'
